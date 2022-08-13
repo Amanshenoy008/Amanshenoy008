@@ -27,6 +27,7 @@ Fun fact: Wordpress is horrible :(
 <img src="https://www.svgrepo.com/show/349402/html5.svg" height="50px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://www.svgrepo.com/show/349330/css3.svg"  height="50px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://www.svgrepo.com/show/349419/javascript.svg" height="50px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://www.svgrepo.com/show/374016/python.svg" height="50px">&nbsp;&nbsp;&nbsp;&nbsp
+<img src="https://www.svgrepo.com/show/374016/python.svg" height="50px">&nbsp;&nbsp;&nbsp;&nbsp;
+ <img src="https://www.svgrepo.com/show/331488/mongodb.svg" height="50px">
 </p>
 
