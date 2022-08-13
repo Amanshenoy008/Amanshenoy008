@@ -21,7 +21,7 @@ How to reach me: <a href="https://www.linkedin.com/in/aman-shenoy-343bb9233/"> L
 Fun fact: Wordpress is horrible :(
 
 
-## Languages
+## Languages and frameworks
 <p align="center">
 <img src="https://www.svgrepo.com/show/303480/c-logo.svg" height="50px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://www.svgrepo.com/show/349402/html5.svg" height="50px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
