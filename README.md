@@ -34,7 +34,6 @@ I’m Aman shenoy, a 20-year old tech enthusiast passionate about everything Tec
 <p align="center">
 <img src="https://www.svgrepo.com/show/373623/git.svg" height="50px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://www.svgrepo.com/show/312259/github.svg" height="50px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://www.svgrepo.com/show/354202/postman-icon.svg" height="50px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://www.svgrepo.com/show/376356/aws.svg" height="50px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
