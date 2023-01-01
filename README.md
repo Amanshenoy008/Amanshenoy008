@@ -1,43 +1,70 @@
-### Hi there 👋
-
-<!--
-**Amanshenoy008/Amanshenoy008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:-->
- 
- I'm Aman shenoy an undergrad student majoring in Information science eng. (ISE) at N.M.A.M.I.T .
-
-- 🔭
-I’m currently working on open source contribution 
-- 🌱
-I’m currently learning  DSA , Web development...
-- 🤔
-I’m looking for help with DSA
-- 💬
-Ask me about  Binary search :)
-- 📫
-How to reach me: <a href="https://www.linkedin.com/in/aman-shenoy-343bb9233/"> LinkedIn</a>
-- ⚡
-Fun fact: Wordpress is horrible :(
+<div align="left">
+<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"></h2>
+</div>
 
 
-## Languages and frameworks
+![](https://komarev.com/ghpvc/?username=Amanshenoy008&color=red)
+
+[Portfolio Website ]()|[ Resume  ](https://drive.google.com/file/d/1PdweTGIfd4tB9W3o9oSQEe3wID0tDgAt/view?usp=sharing)|[ LinkedIN](https://www.linkedin.com/in/aman-shenoy-343bb9233/)
+
+I’m Aman shenoy, a 20-year old tech enthusiast passionate about everything Tech. I'm Currently pursuing my Bachelor's degree in Information Science from N.M.A.M.I.T college.
+
+     
+##  Languages 
 <p align="center">
 <img src="https://www.svgrepo.com/show/303480/c-logo.svg" height="50px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://www.svgrepo.com/show/349402/html5.svg" height="50px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://www.svgrepo.com/show/349330/css3.svg"  height="50px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://www.svgrepo.com/show/349419/javascript.svg" height="50px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</br>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
 <img src="https://www.svgrepo.com/show/374016/python.svg" height="50px">&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
- <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> 
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
- </br>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
- <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
- <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>  
 </p>
+
+##  Frameworks, Libraries & Databases 
+<p align="center">
+<img src="https://www.svgrepo.com/show/355190/reactjs.svg" height="50px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://www.svgrepo.com/show/374118/tailwind.svg" height="50px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://www.svgrepo.com/show/349502/sass.svg" height="50px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://www.svgrepo.com/show/331488/mongodb.svg" height="50px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://camo.githubusercontent.com/55c96f41fc5dba5af624827c4205fdb469978360e0554d081b71cab80d0b2e1d/687474703a2f2f7777772e6572696b61736c616e642e636f6d2f7374617469632f696d616765732f6d6f6e676f6f73652e706e67" height="50px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ <img src="https://www.svgrepo.com/show/373595/firebase.svg" height="50px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+</p>
+
+## Tools & Tech
+<p align="center">
+<img src="https://www.svgrepo.com/show/373623/git.svg" height="50px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://www.svgrepo.com/show/312259/github.svg" height="50px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://www.svgrepo.com/show/354202/postman-icon.svg" height="50px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://www.svgrepo.com/show/376356/aws.svg" height="50px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+
+## Real-time Stats
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=Amanshenoy008&count_private=true" width = 400>
+  <br><br>
+  <img src = "https://github-readme-streak-stats.herokuapp.com/?user=Amanshenoy008" width = 400>
+</p>
+
+
+
+<p align="center">
+    <a href="https://github.com/Amanshenoy008?tab=repositories" target="_blank">View More on Github
+    </a>
+</p>
+
+
+## Get in touch
+<p align="center">
+    <a href="" target="_blank">
+    <img src="https://www.svgrepo.com/show/349338/discord.svg" height="40px" alt="discord"/>
+    </a>&nbsp;&nbsp;
+    <a href="mailto:nottherealaman@gmail.com" target="_blank">
+    <img src="https://www.svgrepo.com/show/223047/gmail.svg" height="40px" alt="mail"/>
+    </a>&nbsp;&nbsp;
+    <a href="https://www.linkedin.com/in/aman-shenoy-343bb9233/" target="_blank">
+    <img src="https://www.svgrepo.com/show/134579/linkedin.svg" height="40px"/>
+    </a>&nbsp;&nbsp;
+    
+</p>
+
 
