@@ -7,7 +7,7 @@
 
 [Portfolio Website ]()|[ Resume  ](https://drive.google.com/file/d/1PdweTGIfd4tB9W3o9oSQEe3wID0tDgAt/view?usp=sharing)|[ LinkedIN](https://www.linkedin.com/in/aman-shenoy-343bb9233/)
 
-I’m Aman shenoy, a 20-year old tech enthusiast passionate about everything Tech. I'm Currently pursuing my Bachelor's degree in Information Science from N.M.A.M.I.T college.
+I’m Aman shenoy, a 23-year old tech enthusiast passionate about everything Tech. I'm Currently pursuing my Bachelor's degree in Information Science from N.M.A.M.I.T college.
 <p>I'm Currently learning Vue js </p>
 
      
